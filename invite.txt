@@ -1,0 +1,2 @@
+https://discord.com/oauth2/authorize?client_id=1477787054158119045&permissions=68624&integration_type=0&scope=bot
+for inviting others to use the bot!
